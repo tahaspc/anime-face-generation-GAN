@@ -1,2 +1,2 @@
 # anime-face-generation-GAN
-The Generative Adversarial Network (GAN) generates fake images of amnime characters
+Built a Generative Adversarial Network (GAN) which generates fake images of amnime characters
